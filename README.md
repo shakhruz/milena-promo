@@ -1,5 +1,5 @@
 👩‍🏫 **Милена — твоя заботливая AI-учительница**
-![аватарка.png](attachment:c127144e-21bf-4945-913e-af7ad0d0db74:аватарка.png)
+![аватарка.png](attachment:c127144e-21bf-4945-913e-af7ad0d0db74:avatar.png)
 
 [@milena_teacher_bot](https://t.me/milena_teacher_bot)
 
